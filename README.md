@@ -48,9 +48,14 @@ The overarching goal of anicancer drug is to eliminate cancer cells or at least 
 
 
 
+Monoclonal antibodies are labratory-made moleculae that act as an stimulator for human immune system. As soon as they enter the body (they are injected through the vein) 
+
+more precise...targeted therapy...
+
 __scRNA-seq__
 
-
+scRNA-seq vs. bulk RNA-seq
+One of the famous analogy for comparing these 2 methods is the smoothie
 
 
 
@@ -61,5 +66,6 @@ __References__
 - [Cancer Cell Line Encyclopedia](https://sites.broadinstitute.org/ccle/#:~:text=Cancer%20cell%20lines%20are%20the,and%20for%20defining%20drug%20efficacy.)
 - (https://www.kosheeka.com/advantages-and-disadvantages-of-using-primary-cells-in-cell-culture/#:~:text=Continuous%20types%20of%20cell%20lines,in%20case%20of%20extensive%20passaging.)
 - The hallmarks of cancer (https://pubmed.ncbi.nlm.nih.gov/10647931/)
-<u>This text is underlined</u>
+- (https://my.clevelandclinic.org/health/treatments/22246-monoclonal-antibodies)
+
 

@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to my internship project repository. This project aim to helps students to hone their compbio skills by emulating an internship in biotech/pharma company. The goal is to determine the efficacy of anti cancer drugs by exploring single cell RNA-Seq data in cancer cell line.
+Welcome to my Figure1Lab internship repository. This project aims to help students hone their compbio skills by emulating an internship in biotech/pharma company. The goal is to determine the efficacy of anti cancer drugs by exploring single cell RNA-Seq data in cancer cell line.
 
 This repository is dedicated to my progress of diving deep into the realm of scRNA-seq where I summarize papers I read and share codes as well as my own thoughts.
 
@@ -19,7 +19,7 @@ The original question provided for the first week's task is: **"Using available 
 
 ### Literature Review
 
-In order to break down the question into its buildig blocks, first I need to have a somewhat comprehensive literature review regarding the biology and methodolgy of the question we have in mind.
+In order to break down the question into its buildig blocks, first we need to have a somewhat comprehensive literature review of the underlying biology and methodolgy of the question we have in mind.
 
 
 
@@ -28,10 +28,7 @@ __Cancer cell line__
 Cancer Cell line Encyclopedia project was established in 2006 as a result of the collaboration between Braod Institute and Novartis Institute. It is like an equivalent of TCGA for cancer cell lines. So far, CCLE did a huge service to the filed of biology so far as it provided scientist with the genome-wide characterization of the cancer cell lines which can be corporated in different studies such as testing anticancer drugs and evalauting cell responces in a nearly controlled environment.  
 Although cell lines are very good models (due to their affordability and availablity) to predict drug sensetivities of different cancer, they have their own drawbacks:
 
-
-To start with, they may not capture everything as they may horbor genetic variations which may not be present in the cancer cell itself. These mutations usually occurs as a result of extensive passages in cell cultures and may play a role in the final responce to the drugs. Moreover, they do not represent the whole complexity and heterogeneity of cancer as they are artificially maintained in the lab. With all that being said, they are still one of the best methods for experimentalist to mimic the physiology and state of cancer cells in vitro in order to test the efficacy of anticancer drugs.
-
-
+To start with, they may not capture everything as they may horbor genetic variations which may not be present in the cancer cell itself. These mutations usually occurs as a result of extensive passages in cell cultures and may play a role in the final responce to the drugs. Moreover, by isolating cells in a dish, we are deliberately divorcing those cells from the natural environment they were at. Therefore, they do not represent the whole complexity and heterogeneity of cancer as a result of being artificially maintained in the lab. With all that being said, they are still one of the best method for experimentalist to mimic the physiology and state of cancer cells in vitro in order to test the efficacy of anticancer drugs.
 
 __Anticancer drugs__
 

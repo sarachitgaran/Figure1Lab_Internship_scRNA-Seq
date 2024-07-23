@@ -58,6 +58,9 @@ __scRNA-seq__
 
 scRNA-seq vs. bulk RNA-seq
 One of the famous analogy for comparing these 2 methods is the smoothie
+bulk give us the cell average expression profile which is easy to interpret and analyze. However, it does not reveal the true complexity at the molecular level and may hide some important information such as gene expression hetergeneity. Moreover, some drugs may only affect a specific type of cell which is only detectable with the increased resolution that scRNA-seq offers.
+
+RNA sequencing provide us with a snapshot of molecualr dynamcis inside the cell, tissue or organism at one specific timepoint. The data obtained through this method can be used to compare various samples and detect changes in different states, whether a disease, a new treatment or even different stages of development. Sequencing of RNA can be carried out in 2 ways: 1) Bulk RNA-seq: Sequencing the mixed RNA from the desired sampl. 2) Single cell RNA-seq: Sequencing the transcriptome of individual cells which is of course more expensive and complicated compared to the first method which produce loads of valuable information. In order to draw biologically meaningful conclusions from scRNA-seq data, we need to acquaint ourselves with the piplines available for data analysis which are mainly python and R packages.
 
 
 

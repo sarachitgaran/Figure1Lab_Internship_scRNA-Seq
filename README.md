@@ -43,14 +43,16 @@ Cancer is a complex disease and there are more than 220 types of cancer. All of 
  Limitless replicatibe potential
  Tissue invasion & metastasis
 
+What is the purpose of anticaner drugs? how they work? Whata re some example of anticancer treatment?
 
-The overarching goal of anicancer drug is to eliminate cancer cells or at least slow down their growth
+The overarching goal of anicancer drug is to eliminate cancer cells or at least slow down their growth. One kind of anticancer drugs are monoclonal antibodies which are labratory-made moleculae that can act as an stimulator for human immune system. As soon as they enter the body (they are injected through the vein) they provoke the immune system cells. They are considered targeted therapy as they can precisely aim and attack specific cancer cell.
+
+__Vascular endothelial growth factor (VEGF)__ is a signaling protein which can act as a growth factor for vascular endothelian cells. This angiogenic factor is up-regulated in different types of cancer due to its role in neovascularization. One strategy to battle cancer is to use anti-VEGF to prevent VEGF from angiogensis. By depriving cancer cells from blood supply, the tumor is starved to death. __Bevacizumab__ is a drug treatment which can target VEGF, hence slowing sown the tumorigensis.
 
 
+__Human Epidermal Growth Factor Receptor 2 (HER2)__ is also another protien involved in cell growth. And __Trastuzumab__ (aka Herceptin) is a monoclonal antibody which kill tumor cells by targeting the HER2 attached cancer cells. Obviously it only works on HER2 positive cancers.
 
-Monoclonal antibodies are labratory-made moleculae that act as an stimulator for human immune system. As soon as they enter the body (they are injected through the vein) 
 
-more precise...targeted therapy...
 
 __scRNA-seq__
 
@@ -67,5 +69,7 @@ __References__
 - (https://www.kosheeka.com/advantages-and-disadvantages-of-using-primary-cells-in-cell-culture/#:~:text=Continuous%20types%20of%20cell%20lines,in%20case%20of%20extensive%20passaging.)
 - The hallmarks of cancer (https://pubmed.ncbi.nlm.nih.gov/10647931/)
 - (https://my.clevelandclinic.org/health/treatments/22246-monoclonal-antibodies)
-
+- (https://www.news-medical.net/life-sciences/What-is-VEGF.aspx)
+- (https://www.ncbi.nlm.nih.gov/books/NBK6482/)
+- (https://www.cancerresearchuk.org/about-cancer/treatment/drugs/trastuzumab#:~:text=Trastuzumab%20is%20a%20type%20of,factor%20receptor%202%20(HER2))
 

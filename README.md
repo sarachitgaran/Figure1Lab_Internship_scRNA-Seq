@@ -75,9 +75,9 @@ __References__
 
 - [Single cell best practice book](https://www.sc-best-practices.org/preamble.html)
 - [Types of cancer (Cancer Research UK)](https://www.cancerresearchuk.org/about-cancer/what-is-cancer/how-cancer-starts/types-of-cancer#:~:text=For%20example%2C%20nerves%20and%20muscles,breast%20cancer%20or%20lung%20cancer.)
+- [The hallmarks of cancer] (https://pubmed.ncbi.nlm.nih.gov/10647931/)
 - [Cancer Cell Line Encyclopedia](https://sites.broadinstitute.org/ccle/#:~:text=Cancer%20cell%20lines%20are%20the,and%20for%20defining%20drug%20efficacy.)
 - [Advantages And Disadvantages Of Using Primary Cells In Cell Culture](https://www.kosheeka.com/advantages-and-disadvantages-of-using-primary-cells-in-cell-culture/#:~:text=Continuous%20types%20of%20cell%20lines,in%20case%20of%20extensive%20passaging.)
-- [The hallmarks of cancer] (https://pubmed.ncbi.nlm.nih.gov/10647931/)
 - [Monoclonal Antibodies(Cleavland Clinic)](https://my.clevelandclinic.org/health/treatments/22246-monoclonal-antibodies)
 - [What is VEGF](https://www.news-medical.net/life-sciences/What-is-VEGF.aspx)
 - [VEGF and its role in non-epithelial cell](https://www.ncbi.nlm.nih.gov/books/NBK6482/)

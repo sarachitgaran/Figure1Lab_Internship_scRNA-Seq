@@ -50,17 +50,17 @@ The overarching goal of anicancer drug is to eliminate cancer cells or at least 
 __Vascular endothelial growth factor (VEGF)__ is a signaling protein which can act as a growth factor for vascular endothelian cells. This angiogenic factor is up-regulated in different types of cancer due to its role in neovascularization. One strategy to battle cancer is to use anti-VEGF to prevent VEGF from angiogensis. By depriving cancer cells from blood supply, the tumor is starved to death. __Bevacizumab__ is a drug treatment which can target VEGF, hence slowing sown the tumorigensis.
 
 
-__Human Epidermal Growth Factor Receptor 2 (HER2)__ is also another protien involved in cell growth. And __Trastuzumab__ (aka Herceptin) is a monoclonal antibody which kill tumor cells by targeting the HER2 attached cancer cells. Obviously it only works on HER2 positive cancers.
+__Human Epidermal Growth Factor Receptor 2 (HER2)__ is also another protien involved in cell growth and __Trastuzumab__ (aka Herceptin) is a monoclonal antibody which kill tumor cells by targeting the HER2 attached cancer cells. Obviously it only works on HER2 positive cancers.
 
 
 
 __scRNA-seq__
 
-scRNA-seq vs. bulk RNA-seq
-One of the famous analogy for comparing these 2 methods is the smoothie
-The result of bulk RNA-seq is the cell average expression profile which is easy to interpret and analyze. However, it does not reveal the true complexity at the molecular level and may hide some important information such as gene expression hetergeneity. Moreover, some drugs may only affect a specific type of cell which is only detectable with the increased resolution that only scRNA-seq offers.
 
 RNA sequencing provides us with a snapshot of molecular dynamcis inside the cell, tissue or organism at one specific timepoint. The data obtained through this method can be used to compare various samples and detect changes in different states, whether a disease, a new treatment or even different stages of development. Sequencing of RNA can be carried out in 2 ways: 1) Bulk RNA-seq: Sequencing the mixed RNA from the desired sample. 2) Single cell RNA-seq: Sequencing the transcriptome of individual cells which produce loads of valuable information and therefore it is more expensive and complicated. In order to draw biologically meaningful conclusions from scRNA-seq data, we need to acquaint ourselves with the piplines and softwares available for data analysis which are mainly writtem in python and R.
+
+The result of bulk RNA-seq is the cell average expression profile which is easy to interpret and analyze. However, it does not reveal the true complexity at the molecular level and may hide some important information such as gene expression hetergeneity. Moreover, some drugs may only affect a specific type of cell which is only detectable with the increased resolution that only scRNA-seq offers.
+
 There are 3 general steps to sequence RNA in either of these technologies: 1) Sample and library preparation 2) Amplification and Sequencing 3) Data output and analysis.
 Currenlty for 3 kind of scRNA-seq protocols for the library preparation step exist, which are categorizaed mainlt base on the cell isolation protocol.
 I. Microfluidic device-base strategies which  use hydrogel droplets to encapsulate cells
@@ -70,19 +70,16 @@ III. Fluidigim C1 which is a commercial chip that loads and isolate cells into s
 Each of these methods come with their own pros and cons and scientists should be aware of their biases when analysing the data. They are different in many aspects such as tehir ability for transcript recovery or number of sequenced cells and so on. Selecting either of them depends on the aim of the study. For example, droplet based assay are known outcompete other methods for capturing heteregeneous mixture of cells and therefore result in broader characterization of the 
 
 
-__Paraphrasing the KSQ__
-
-
 
 __References__
 
-- [single cell best practice book](https://www.sc-best-practices.org/preamble.html)
-- [Cancer Research UK](https://www.cancerresearchuk.org/about-cancer/what-is-cancer/how-cancer-starts/types-of-cancer#:~:text=For%20example%2C%20nerves%20and%20muscles,breast%20cancer%20or%20lung%20cancer.)
+- [Single cell best practice book](https://www.sc-best-practices.org/preamble.html)
+- [Types of cancer (Cancer Research UK)](https://www.cancerresearchuk.org/about-cancer/what-is-cancer/how-cancer-starts/types-of-cancer#:~:text=For%20example%2C%20nerves%20and%20muscles,breast%20cancer%20or%20lung%20cancer.)
 - [Cancer Cell Line Encyclopedia](https://sites.broadinstitute.org/ccle/#:~:text=Cancer%20cell%20lines%20are%20the,and%20for%20defining%20drug%20efficacy.)
-- (https://www.kosheeka.com/advantages-and-disadvantages-of-using-primary-cells-in-cell-culture/#:~:text=Continuous%20types%20of%20cell%20lines,in%20case%20of%20extensive%20passaging.)
-- The hallmarks of cancer (https://pubmed.ncbi.nlm.nih.gov/10647931/)
-- (https://my.clevelandclinic.org/health/treatments/22246-monoclonal-antibodies)
-- (https://www.news-medical.net/life-sciences/What-is-VEGF.aspx)
-- (https://www.ncbi.nlm.nih.gov/books/NBK6482/)
-- (https://www.cancerresearchuk.org/about-cancer/treatment/drugs/trastuzumab#:~:text=Trastuzumab%20is%20a%20type%20of,factor%20receptor%202%20(HER2))
+- [Advantages And Disadvantages Of Using Primary Cells In Cell Culture](https://www.kosheeka.com/advantages-and-disadvantages-of-using-primary-cells-in-cell-culture/#:~:text=Continuous%20types%20of%20cell%20lines,in%20case%20of%20extensive%20passaging.)
+- [The hallmarks of cancer] (https://pubmed.ncbi.nlm.nih.gov/10647931/)
+- [Monoclonal Antibodies(Cleavland Clinic)](https://my.clevelandclinic.org/health/treatments/22246-monoclonal-antibodies)
+- [What is VEGF](https://www.news-medical.net/life-sciences/What-is-VEGF.aspx)
+- [VEGF and its role in non-epithelial cell](https://www.ncbi.nlm.nih.gov/books/NBK6482/)
+- [Trastuyumab (Cancer Research UK)](https://www.cancerresearchuk.org/about-cancer/treatment/drugs/trastuzumab#:~:text=Trastuzumab%20is%20a%20type%20of,factor%20receptor%202%20(HER2))
 

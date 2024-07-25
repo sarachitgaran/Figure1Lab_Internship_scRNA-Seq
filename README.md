@@ -62,12 +62,12 @@ RNA sequencing provides us with a snapshot of molecular dynamcis inside the cell
 The result of bulk RNA-seq is the cell average expression profile which is easy to interpret and analyze. However, it does not reveal the true complexity at the molecular level and may hide some important information such as gene expression hetergeneity. Moreover, some drugs may only affect a specific type of cell which is only detectable with the increased resolution that only scRNA-seq offers.
 
 There are 3 general steps to sequence RNA in either of these technologies: 1) Sample and library preparation 2) Amplification and Sequencing 3) Data output and analysis.
-Currenlty for 3 kind of scRNA-seq protocols for the library preparation step exist, which are categorizaed mainlt base on the cell isolation protocol.
-I. Microfluidic device-base strategies which  use hydrogel droplets to encapsulate cells
-II. Well plate base where cells are physically seperated into wells
+Currenlty for 3 kind of scRNA-seq protocols for the library preparation step exist, which are categorizaed mainlt base on the cell isolation protocol:
+I. Microfluidic device-base strategies which  use hydrogel droplets to encapsulate cells.
+II. Well plate base where cells are physically seperated into wells.
 III. Fluidigim C1 which is a commercial chip that loads and isolate cells into small reaction chamber.
 
-Each of these methods come with their own pros and cons and scientists should be aware of their biases when analysing the data. They are different in many aspects such as tehir ability for transcript recovery or number of sequenced cells and so on. Selecting either of them depends on the aim of the study. For example, droplet based assay are known outcompete other methods for capturing heteregeneous mixture of cells and therefore result in broader characterization of the 
+Each of these methods come with their own pros and cons and scientists should be aware of their biases when analysing the data. They are different in many aspects such as their ability for transcript recovery or number of sequenced cells and so on. Selecting either of them depends on the aim of the study. For example, droplet based assay are known outcompete other methods for capturing heteregeneous mixture of cells and therefore result in broader characterization of the 
 
 
 

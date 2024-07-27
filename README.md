@@ -14,8 +14,8 @@ The first week of the internship is devoted to the literature review in order to
 ## Original Question
 
 The original question provided for the first week's task is: **"Using available scRNA-seq data from cancer cell lines, how would you explore the use of the following FDA-approved antibody therapies in additional cancers??
--+Trastuzumab: Targets HER2 and is used in the treatment of HER2-positive breast and gastric cancers.
--+Bevacizumab: Targets VEGF and is used for a variety of cancers, including colorectal, lung, glioblastoma, breast, liver, and kidney cancer."**
+ -Trastuzumab: Targets HER2 and is used in the treatment of HER2-positive breast and gastric cancers.
+ -Bevacizumab: Targets VEGF and is used for a variety of cancers, including colorectal, lung, glioblastoma, breast, liver, and kidney cancer."**
 
 ### Literature Review
 

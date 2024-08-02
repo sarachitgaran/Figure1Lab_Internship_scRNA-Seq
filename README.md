@@ -83,3 +83,17 @@ __References__
 - [VEGF and its role in non-epithelial cell](https://www.ncbi.nlm.nih.gov/books/NBK6482/)
 - [Trastuyumab (Cancer Research UK)](https://www.cancerresearchuk.org/about-cancer/treatment/drugs/trastuzumab#:~:text=Trastuzumab%20is%20a%20type%20of,factor%20receptor%202%20(HER2))
 
+
+
+----------
+**Week2 Memo**
+
+The main focus of the second week was to understand kinker paper and try to answer some questions:
+
+1-How did the authors handle the potential caveat of co-culturing cell lines before profiling by scRNA-seq? Why do you think that caveat was or was not adequately addressed?
+2-The authors identified discrete subpopulations of cells within a subset of individual cell lines (Fig. 2A-B). What might be the reason why some cell lines have these discrete subpopulations while others do not?
+3-What are Recurrent Heterogeneous Programs (RHPs) and how were they defined?
+4-How do the identified RHPs relate to in vivo programs of heterogeneity in tumors, and what evidence supports this relationship?
+5-Where can you download the scRNA-seq data as shown in Figure 1B?
+This is the direct link to download all the data realted to this paper
+https://singlecell.broadinstitute.org/single_cell/study/SCP542/pan-cancer-cell-line-heterogeneity#/

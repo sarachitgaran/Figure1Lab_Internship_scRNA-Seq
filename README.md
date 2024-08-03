@@ -93,12 +93,12 @@ __References__
 ----------
 **Week2 Memo**
 
-The main focus of the second week was to understand kinker paper and try to answer some questions:
+The main focus of the second week was to understand kinker paper and try to answer some questions mentioned below. Here are my thoughts to address the questions Dean lee raised:
 
-1-How did the authors handle the potential caveat of co-culturing cell lines before profiling by scRNA-seq? Why do you think that caveat was or was not adequately addressed?
-2-The authors identified discrete subpopulations of cells within a subset of individual cell lines (Fig. 2A-B). What might be the reason why some cell lines have these discrete subpopulations while others do not?
-3-What are Recurrent Heterogeneous Programs (RHPs) and how were they defined?
-4-How do the identified RHPs relate to in vivo programs of heterogeneity in tumors, and what evidence supports this relationship?
-5-Where can you download the scRNA-seq data as shown in Figure 1B?
+    1-How did the authors handle the potential caveat of co-culturing cell lines before profiling by scRNA-seq? Why do you think that caveat was or was not adequately addressed?
+    2-The authors identified discrete subpopulations of cells within a subset of individual cell lines (Fig. 2A-B). What might be the reason why some cell lines have these discrete subpopulations while others do not?
+    3-What are Recurrent Heterogeneous Programs (RHPs) and how were they defined?
+    4-How do the identified RHPs relate to in vivo programs of heterogeneity in tumors, and what evidence supports this relationship?
+    5-Where can you download the scRNA-seq data as shown in Figure 1B?
 This is the direct link to download all the data realted to this paper
 https://singlecell.broadinstitute.org/single_cell/study/SCP542/pan-cancer-cell-line-heterogeneity#/

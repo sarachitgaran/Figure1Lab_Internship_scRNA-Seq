@@ -97,12 +97,22 @@ The main focus of the second week was to understand kinker paper and try to answ
 
     1-How did the authors handle the potential caveat of co-culturing cell lines before profiling by scRNA-seq? Why do you think that caveat was or was not adequately addressed?
  
- In my POV, one of the drawbacks of culturing different cell lines next to each other (a.k.a co-culturing) is the interaction they may have with each other in the environment which would not be existed if they were cultured in seperate dishes. The interaction may include communication or even competition for common resources. Therefore, this molecular interplay may affect some mechanism at cell and molecular level which would eventually influnce  so many other factors such as heterogeneity program of gene expression or drug resistency.
-Although authors mentioned that the cell lines being co-cultured has relatively similar proliferation rate, I still doubt that 2 different cell lines could have such a synchronize cell state. As a result, I believe that the state of cell cycle that each cell lines were in during the experiment were slightly different and since cell state highly affect the dynamic of gene expression, it may cuase some unwanted heteregeneity in that regard. However, they somehow addressed this possible problem by clustering based on cell state.
+ In my POV, one of the drawbacks of culturing different cell lines next to each other (a.k.a co-culture) in the same petri dish is the interaction they may have with each other in the environment which would not be existed if they were cultured in seperate dishes (monoculture). These interaction whether be communication or even competition for common resources would result in altered gene expression in cell lines compared to normal consition. Therefore, this new molecular interplay  may lead to the emergence of new properties in cell lines including drug resistency or metastasis.
+Although authors mentioned that the cell lines being co-cultured has relatively similar proliferation rate, I still doubt that 2 different cell lines could have such a synchronized cell state which could be considered exactly the same. As a result, I believe that the state of cell cycle that each cell lines were in during the experiment were slightly different and since cell state highly affect the dynamic of gene expression, it may cuase some unwanted heteregeneity in that regard. However, they somehow addressed this problem by clustering based on cell state.
  Moreover, they co-cultured the cell lines 3 day prior to transcriptome profiling which is a suitable time for mutation to occur in order to adapt cells to their new enviornment. These mutation may get fixed in some population and heavily affect the pattern of gene expression in that specific pool. However, they tackle this hypothesis by comparing the hetergeneity within cell line to intra cell line heterogeneity and found that there were not any significant difference. In addition, they conducted a control experiment where 6 specific cell lines were profiled with and without co-culturing for 3 days and realized that it has a modest effect in the average gene expression. They also observed that the heteregenity pattern were highly consistent between the two conditions.
 
     2-The authors identified discrete subpopulations of cells within a subset of individual cell lines (Fig. 2A-B). What might be the reason why some cell lines have these discrete subpopulations while others do not?
+
+<!-- continous pattern show spectra of cell state --!> 
+
+minority of cell line (11%) showed discrete clusters of cells based on variability of their expression pattern measured by NMF followed by density-based clustering (DBSCAN)
+
+
+
     3-What are Recurrent Heterogeneous Programs (RHPs) and how were they defined?
+    
+To make the comparison easier, instead of considering individual genes, they defined expression programs (consisted of some hundred co-expressed genes) and found low similarities between them, both within cell lines of the same cancer type as well as across different type of cancer, showing that discrete subpopulation tends to be unique and cell line-specific.
+They also implemented NMF to each cell line in order to identify continuous cell state variablity.
     4-How do the identified RHPs relate to in vivo programs of heterogeneity in tumors, and what evidence supports this relationship?
     5-Where can you download the scRNA-seq data as shown in Figure 1B?
 This is the direct link to download all the data realted to this paper

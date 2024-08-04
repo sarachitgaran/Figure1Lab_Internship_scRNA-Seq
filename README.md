@@ -103,17 +103,21 @@ Although authors mentioned that the cell lines being co-cultured has relatively 
 
     2-The authors identified discrete subpopulations of cells within a subset of individual cell lines (Fig. 2A-B). What might be the reason why some cell lines have these discrete subpopulations while others do not?
 
-<!-- continous pattern show spectra of cell state --!> 
-
-minority of cell line (11%) showed discrete clusters of cells based on variability of their expression pattern measured by NMF followed by density-based clustering (DBSCAN)
+In this study minority of cell lines (11%) showed discrete clusters of cells based on variability of their expression pattern measured by NMF followed by density-based clustering (DBSCAN). I can speculate that the divergence observed in gene expression can arise from so many factors including the inherent difference in genetic background, epigenetic or evironment.
 
 
 
     3-What are Recurrent Heterogeneous Programs (RHPs) and how were they defined?
     
-To make the comparison easier, instead of considering individual genes, they defined expression programs (consisted of some hundred co-expressed genes) and found low similarities between them, both within cell lines of the same cancer type as well as across different type of cancer, showing that discrete subpopulation tends to be unique and cell line-specific.
+RHPs are defined as patterns of gene activity that are consistently observed re peatedly across different cell lines while varying in the details of their expression and can be associated to a specific biological process
+In this paper, to make the comparison easier, instead of considering individual genes, they defined expression programs (consisted of some hundred co-expressed genes) and found low similarities between them, both within cell lines of the same cancer type as well as across different type of cancer, showing that discrete subpopulation tends to be unique and cell line-specific.
 They also implemented NMF to each cell line in order to identify continuous cell state variablity.
-    4-How do the identified RHPs relate to in vivo programs of heterogeneity in tumors, and what evidence supports this relationship?
+    
+    4-How do they identified RHPs related to in vivo programs of heterogeneity in tumors, and what evidence supports this relationship?
+    
+Out of 10 RHPs, 7 were similar to in vivo program indicated by highly significant overlap of important genes and high correlation of cell score. They further investigated this similarity in melanoma and HNSCC by a combined analysis of cells from cell lines and tumors to support the evidence.
+    
     5-Where can you download the scRNA-seq data as shown in Figure 1B?
-This is the direct link to download all the data realted to this paper
+    
+This is the direct link to download all the data realted to this paper at once:
 https://singlecell.broadinstitute.org/single_cell/study/SCP542/pan-cancer-cell-line-heterogeneity#/

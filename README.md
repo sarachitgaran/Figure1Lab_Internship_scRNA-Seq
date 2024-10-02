@@ -40,17 +40,17 @@ __Anticancer drugs__
 Before jump into the world of anticancer drugs, let's take a breif look at cancer itself and try to answer some (seemingly!) basic questions about this mysterious diseas which have baffled scientists for centuries. 
  what is cancer and what are the characteristics of cancer cell?
 
-Cancer is a complex disease and there are more than 220 types of cancer. All of them their own differences which make them unique in some way but the fundamental principle of all cancers is uncontrolled cell proliferation which result in tumors formation in the specific part of the body which may ultimatley results in metastasis to other organs. But what leads to this? We can refer to one of the key paper in cancer research to answer this question. Tumor cells take advantage of some molecular mechanisms inside the cell in order to bypass the regulatory framework embedded in the cell. According to Hanahan and Weinberg key paper in cell 2000, these are the 6 unique features of cancer cells:
- Evading apopptosis
- Self-sufficiency in growth signals
- Insesitivity to anti-growth signals
- Sustained angoigenesis
- Limitless replicatibe potential
- Tissue invasion & metastasis
+Cancer is a complex disease and there are more than 220 types of cancer. All have their own differences which make them unique in some way but the fundamental principle of all cancers is the uncontrolled cell proliferation which result in tumors formation in a specific organ that may ultimately lead to metastasis to other parts of the body. But how does it initiate? To answer this question, We can refer to one of the key paper in cancer research. Tumor cells take advantage of some molecular mechanisms inside the cell in order to bypass the regulatory framework embedded in the cell. According to Hanahan and Weinberg paper (published in cell 2000), there are 6 unique features of cancer cells:
+ 1.Evading apopptosis
+ 2.Self-sufficiency in growth signals
+ 3.Insesitivity to anti-growth signals
+ 4.Sustained angoigenesis
+ 5.Limitless replication potential
+ 6.Tissue invasion & metastasis
 
-What is the purpose of anticaner drugs? how they work? Whata re some example of anticancer treatment?
+What is the purpose of anticaner drugs? How do they work? What are some examples of anticancer treatment?
 
-The overarching goal of anicancer drug is to eliminate cancer cells or at least slow down their growth. One kind of anticancer drugs are monoclonal antibodies which are labratory-made moleculae that can act as an stimulator for human immune system. As soon as they enter the body (they are injected through the vein) they provoke the immune system cells. They are considered targeted therapy as they can precisely aim and attack specific cancer cell.
+The overarching goal of anicancer drug is to eliminate cancer cells or at least slow down their growth. One kind of anticancer drugs are monoclonal antibodies which are labratory-made moleculae that can act as an stimulator for human immune system. As soon as they enter the body (they are injected through the vein), they provoke the immune system cells. They are considered as targeted therapy due to their potential to aim precisely and attack cancer cell.
 
 __Vascular endothelial growth factor (VEGF)__ is a signaling protein which can act as a growth factor for vascular endothelian cells. This angiogenic factor is up-regulated in different types of cancer due to its role in neovascularization. One strategy to battle cancer is to use anti-VEGF to prevent VEGF from angiogensis. By depriving cancer cells from blood supply, the tumor is starved to death. __Bevacizumab__ is a drug treatment which can target VEGF, hence slowing sown the tumorigensis.
 

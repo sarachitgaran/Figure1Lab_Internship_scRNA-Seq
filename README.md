@@ -84,9 +84,9 @@ __References__
 - [Cancer Cell Line Encyclopedia](https://sites.broadinstitute.org/ccle/#:~:text=Cancer%20cell%20lines%20are%20the,and%20for%20defining%20drug%20efficacy.)
 - [Advantages And Disadvantages Of Using Primary Cells In Cell Culture](https://www.kosheeka.com/advantages-and-disadvantages-of-using-primary-cells-in-cell-culture/#:~:text=Continuous%20types%20of%20cell%20lines,in%20case%20of%20extensive%20passaging.)
 - [Monoclonal Antibodies(Cleavland Clinic)](https://my.clevelandclinic.org/health/treatments/22246-monoclonal-antibodies)
-- [What is VEGF](https://www.news-medical.net/life-sciences/What-is-VEGF.aspx)
+- [What is VEGF?](https://www.news-medical.net/life-sciences/What-is-VEGF.aspx)
 - [VEGF and its role in non-epithelial cell](https://www.ncbi.nlm.nih.gov/books/NBK6482/)
-- [Trastuyumab (Cancer Research UK)](https://www.cancerresearchuk.org/about-cancer/treatment/drugs/trastuzumab#:~:text=Trastuzumab%20is%20a%20type%20of,factor%20receptor%202%20(HER2))
+- [Trastuzumab (Cancer Research UK)](https://www.cancerresearchuk.org/about-cancer/treatment/drugs/trastuzumab#:~:text=Trastuzumab%20is%20a%20type%20of,factor%20receptor%202%20(HER2))
 
 
 

@@ -72,7 +72,7 @@ I. Microfluidic device-base strategies which use hydrogel droplets to encapsulat
 II. Well plate base where cells are physically seperated into wells.
 III. Fluidigim C1 which is a commercial chip that loads and isolate cells into small reaction chamber.
 
-Each of these methods come with their own pros and cons and scientists should be aware of their biases when analysing the data. They are different in many aspects such as their ability for transcript recovery or number of sequenced cells and so on. Selecting either of them depends on the aim of the study. For example, droplet based assay are known outcompete other methods for capturing heteregeneous mixture of cells and therefore result in broader characterization of the 
+Each of these methods come with their own pros and cons and scientists should be aware of their biases when analyzing the data. They are different in many aspects such as their ability for transcript recovery or number of sequenced cells and so on. Selecting either of them depends on the aim of the study. For example, droplet based assay are known to outcompete other methods for capturing heterogeneous mixture of cells and therefore result in broader characterization of the 
 
 
 
